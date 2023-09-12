@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2023-09-12T20:01:10.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="es3fL35acRn6lcaZNbkS" version="21.7.4" type="device">
+  <diagram name="Página-1" id="0p1Y6eLN7JJ92aFEPeO1">
+    <mxGraphModel dx="880" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-1" target="tAPwdaDP_LhEOnObUS7r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-2" target="tAPwdaDP_LhEOnObUS7r-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-2" value="Selecionar área de devolução" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-3" target="tAPwdaDP_LhEOnObUS7r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-3" value="inserir id/ISBN do livro" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-6" target="tAPwdaDP_LhEOnObUS7r-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-6" value="registar devolução" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-8" target="tAPwdaDP_LhEOnObUS7r-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-8" target="tAPwdaDP_LhEOnObUS7r-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-8" value="livro disponivel" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0.975;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="tAPwdaDP_LhEOnObUS7r-24" target="tAPwdaDP_LhEOnObUS7r-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-24" value="concluir devolução" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-34" value="Mensagem de erro" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-35" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="tAPwdaDP_LhEOnObUS7r-34" parent="1" target="tAPwdaDP_LhEOnObUS7r-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="240" />
+              <mxPoint x="410" y="240" />
+              <mxPoint x="410" y="40" />
+              <mxPoint x="705" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-38" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="218" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPwdaDP_LhEOnObUS7r-39" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="218" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
